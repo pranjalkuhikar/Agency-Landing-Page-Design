@@ -1,10 +1,10 @@
-import Section1 from "./components/section1/section1";
+import Section1 from "./sections/section1/section1";
 
 const App = () => {
   return (
-    <>
+    <div className="font-[Helvetica_Now_Display]">
       <Section1 />
-    </>
+    </div>
   );
 };
 
