@@ -1,5 +1,7 @@
-const section1 = () => {
+import React from "react";
+
+const Section1 = () => {
   return <div>section1</div>;
 };
 
-export default section1;
+export default Section1;

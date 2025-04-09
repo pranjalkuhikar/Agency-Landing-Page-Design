@@ -1,7 +1,9 @@
+import Section1 from "./components/section1/section1";
+
 const App = () => {
   return (
     <>
-      <div className="text-5xl">Hello World</div>
+      <Section1 />
     </>
   );
 };

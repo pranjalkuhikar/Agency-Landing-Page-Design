@@ -1,7 +1,7 @@
 import React from "react";
 
-const section5 = () => {
-  return <div>section5</div>;
+const Section5 = () => {
+  return <div>Section5</div>;
 };
 
-export default section5;
+export default Section5;
